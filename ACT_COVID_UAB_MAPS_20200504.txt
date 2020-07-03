@@ -1,0 +1,286 @@
+CONCEPT_CODE	PARENT_CODE	CONCEPT_NAME	PARENT_NAME	SOURCE_SYSTEM
+Ambulatory	UMLS:C0002423	Ambulatory	Ambulatory	UABCOVID19
+AMBVitals	ACT_COVID_VITALS	AMB Vitals	Vitals	UABCOVID19
+ArterialLine#1Information	UMLS:C1547136	Arterial Line #1 Information	Inpatient (Critical Care)	UABCOVID19
+ArterialLineInsertion/Care/Removal	UMLS:C1547136	Arterial Line Insertion/Care/Removal	Inpatient (Critical Care)	UABCOVID19
+ArtificialAirway	UMLS:C0021925	Artificial Airway	Intubation	UABCOVID19
+COLUMN85	UMLS:C1547137	If yes, date of hospital admission	Inpatient (Routine)	UABREDCAPCOVID19
+COLUMN87	UMLS:C1547136	Did hospital admission result in ICU admission?	Inpatient (Critical Care)	UABREDCAPCOVID19
+COLUMN88	UMLS:C1547136	If yes, date of ICU admission	Inpatient (Critical Care)	UABREDCAPCOVID19
+COLUMN94	UMLS:C0037088	Has participant had any of the following risk factors for exposure? (choice=Contact with confirmed COVID-19 case)	Diagnosis	UABREDCAPCOVID19
+COVID:1012367158	UMLS:C4534306	Oxygen With Feedings	Supplemental Oxygen	UABCOVID19
+COVID:1015244801	DEM_VITAL_STATUS_DECEASED	Home Health/Hospice Care, AMB	Known Deceased	UABCOVID19
+COVID:1026453713	UMLS:C1547136	NICU Attending Physician	Inpatient (Critical Care)	UABCOVID19
+COVID:1050575172	UMLS:C4534306	Oxygen Details	Supplemental Oxygen	UABCOVID19
+COVID:1064373091	UMLS:C1561585	UED NU-DESC Delirium Assessment	Emergency	UABCOVID19
+COVID:1087618941	UMLS:C1547136	CC IntraAortic Balloon Pump	Inpatient (Critical Care)	UABCOVID19
+COVID:1087674704	UMLS:C1547136	CC IntraAortic Balloon Pump	Inpatient (Critical Care)	UABCOVID19
+COVID:1093066361	UMLS:C1547136	Reason For Critical Care Adm Resolved	Inpatient (Critical Care)	UABCOVID19
+COVID:1094526897	UMLS:C1547136	INTRA AORTIC BALLOON PUMP	Inpatient (Critical Care)	UABCOVID19
+COVID:1113402676	UMLS:C0199470	Ventilator Order Pressure Weaning RNICU	Mechanical Ventilation	UABCOVID19
+COVID:1113402676	UMLS:C1547136	Ventilator Order Pressure Weaning RNICU	Inpatient (Critical Care)	UABCOVID19
+COVID:1113407395	UMLS:C0199470	Ventilator Order Volume Weaning RNICU	Mechanical Ventilation	UABCOVID19
+COVID:1113407395	UMLS:C1547136	Ventilator Order Volume Weaning RNICU	Inpatient (Critical Care)	UABCOVID19
+COVID:1113407789	UMLS:C0199470	Ventilator Order High Frequency Weaning RNICU	Mechanical Ventilation	UABCOVID19
+COVID:1113407789	UMLS:C1547136	Ventilator Order High Frequency Weaning RNICU	Inpatient (Critical Care)	UABCOVID19
+COVID:1128078357	UMLS:C1547136	Anes TTE ICU	Inpatient (Critical Care)	UABCOVID19
+COVID:1128079713	UMLS:C1547136	Anes TTE ICU	Inpatient (Critical Care)	UABCOVID19
+COVID:1141784859	UMLS:C0002423	99201 - Office Visit,New,Level 1	Ambulatory	UABCOVID19
+COVID:1141784941	UMLS:C0002423	99202 - Office Visit,New,Level 2	Ambulatory	UABCOVID19
+COVID:1141785532	UMLS:C0002423	99203 - Office Visit,New,Level 3	Ambulatory	UABCOVID19
+COVID:1141785695	UMLS:C0002423	99204 - Office Visit,New,Level 4	Ambulatory	UABCOVID19
+COVID:1141785928	UMLS:C0002423	99205 - Office Visit,New,Level 5	Ambulatory	UABCOVID19
+COVID:1141786339	UMLS:C0002423	99211 - Office Visit, Est, Level 1	Ambulatory	UABCOVID19
+COVID:1141786487	UMLS:C0002423	99212 - Office Visit, Est, Level 2	Ambulatory	UABCOVID19
+COVID:1141787165	UMLS:C0002423	99213 - Office Visit, Est, Level 3	Ambulatory	UABCOVID19
+COVID:1141788160	UMLS:C0002423	99214 - Office Visit, Est, Level 4	Ambulatory	UABCOVID19
+COVID:1141788245	UMLS:C0002423	99215 - Office Visit, Est, Level 5	Ambulatory	UABCOVID19
+COVID:1141788957	UMLS:C0002423	99242 - Office Consult,Level 2	Ambulatory	UABCOVID19
+COVID:1141788971	UMLS:C0002423	99243 - Office Consult,Level 3	Ambulatory	UABCOVID19
+COVID:1141789154	UMLS:C0002423	99244 - Office Consult,Level 4	Ambulatory	UABCOVID19
+COVID:1141789331	UMLS:C0002423	99245 - Office Consult,Level 5	Ambulatory	UABCOVID19
+COVID:1156432057	DEM_VITAL_STATUS_DECEASED	Date Of Death	Known Deceased	UABCOVID19
+COVID:1167604989	UMLS:C0015357	PGD ECMO Score (24 hours)	Extracorporeal membrane oxygenation (ECMO)	UABCOVID19
+COVID:1167605166	UMLS:C0015357	PGD ECMO Score (48 hours)	Extracorporeal membrane oxygenation (ECMO)	UABCOVID19
+COVID:1167605327	UMLS:C0015357	PGD ECMO Score (72 hours)	Extracorporeal membrane oxygenation (ECMO)	UABCOVID19
+COVID:1170040371	UMLS:C0002423	99211G - Office Visit, Est, Level 1	Ambulatory	UABCOVID19
+COVID:1170040616	UMLS:C0002423	99212G - Office Visit, Est, Level 2	Ambulatory	UABCOVID19
+COVID:1170040718	UMLS:C0002423	99213G - Office Visit, Est, Level 3	Ambulatory	UABCOVID19
+COVID:1170040896	UMLS:C0002423	99214G - Office Visit, Est, Level 4	Ambulatory	UABCOVID19
+COVID:1170040969	UMLS:C0002423	99215G - Office Visit, Est, Level 5	Ambulatory	UABCOVID19
+COVID:119455298	UMLS:C0015357	ECMO-MANAGEMENT	Extracorporeal membrane oxygenation (ECMO)	UABCOVID19
+COVID:1203247975	UMLS:C0015357	ECMO Documentation	Extracorporeal membrane oxygenation (ECMO)	UABCOVID19
+COVID:1207584619	UMLS:C0015357	ECMO Circuit Count (DG)	Extracorporeal membrane oxygenation (ECMO)	UABCOVID19
+COVID:1221789464	UMLS:C0015357	ECMO Parameters	Extracorporeal membrane oxygenation (ECMO)	UABCOVID19
+COVID:1263797855	DEM_VITAL_STATUS_DECEASED	Consult to Bereavement Coordinator, Adult	Known Deceased	UABCOVID19
+COVID:1264158855	DEM_VITAL_STATUS_DECEASED	Consult to Bereavement Coordinator, Adult	Known Deceased	UABCOVID19
+COVID:1283116	DEM_VITAL_STATUS_DECEASED	NM Brain Death Study	Known Deceased	UABCOVID19
+COVID:138740956	UMLS:C4534306	Oxygen Administration	Supplemental Oxygen	UABCOVID19
+COVID:138751536	UMLS:C0199470	Ventilator Order - Pressure	Mechanical Ventilation	UABCOVID19
+COVID:138751547	UMLS:C0199470	Ventilator Order - Volume	Mechanical Ventilation	UABCOVID19
+COVID:138753963	UMLS:C0199470	Ventilator Order - High Frequency	Mechanical Ventilation	UABCOVID19
+COVID:138780985	UMLS:C1547137	Admit To	Inpatient (Routine)	UABCOVID19
+COVID:138818070	UMLS:C1547136	Arterial Line	Inpatient (Critical Care)	UABCOVID19
+COVID:138832423	UMLS:C0199470	Continuous Positive Airway Pressure	Mechanical Ventilation	UABCOVID19
+COVID:138832839	UMLS:C0199470	Continuous Positive Airway Pressure	Mechanical Ventilation	UABCOVID19
+COVID:138870848	UMLS:C0199470	Ventilator Orders - Pressure	Mechanical Ventilation	UABCOVID19
+COVID:138881190	UMLS:C4534306	Oxygen Administration	Supplemental Oxygen	UABCOVID19
+COVID:138881518	UMLS:C0199470	Ventilator Orders - Volume	Mechanical Ventilation	UABCOVID19
+COVID:138881537	UMLS:C0199470	Ventilator Orders - High Frequency	Mechanical Ventilation	UABCOVID19
+COVID:138881645	UMLS:C4534306	Helium-Oxygen Therapy	Supplemental Oxygen	UABCOVID19
+COVID:138898801	UMLS:C4534306	Oxygen Therapy Form	Supplemental Oxygen	UABCOVID19
+COVID:138901293	UMLS:C1547137	Discharge Consult Note Comment	Inpatient (Routine)	UABCOVID19
+COVID:138902091	DEM_VITAL_STATUS_DECEASED	Expiration Record Form	Known Deceased	UABCOVID19
+COVID:138906648	UMLS:C0199470	Conventional Vent Management Per hour	Mechanical Ventilation	UABCOVID19
+COVID:138906850	UMLS:C0199470	Oscillator Vent Management Per Hour	Mechanical Ventilation	UABCOVID19
+COVID:138906969	UMLS:C0199470	Jet Vent Management Per Hour	Mechanical Ventilation	UABCOVID19
+COVID:138907100	UMLS:C0199470	Inovent Per Hour	Mechanical Ventilation	UABCOVID19
+COVID:138907297	UMLS:C1547136	Respiratory Therapy Charges (RNICU) Form	Inpatient (Critical Care)	UABCOVID19
+COVID:138907671	DEM_VITAL_STATUS_DECEASED	Referral To Hospice	Known Deceased	UABCOVID19
+COVID:138907761	UMLS:C1547136	RT Service Charge(s) RNICU	Inpatient (Critical Care)	UABCOVID19
+COVID:138908074	UMLS:C1547136	RT Set Up Charge(s) RNICU	Inpatient (Critical Care)	UABCOVID19
+COVID:138908112	UMLS:C1547136	RT Treatment Charge RNICU	Inpatient (Critical Care)	UABCOVID19
+COVID:138918983	UMLS:C4534306	Heliox Therapy	Supplemental Oxygen	UABCOVID19
+COVID:138937079	UMLS:C1547136	Arterial Line	Inpatient (Critical Care)	UABCOVID19
+COVID:138994768	UMLS:C1547137	Inpatient Patient Summary	Inpatient (Routine)	UABCOVID19
+COVID:138994772	UMLS:C1561585	Emergency Patient Summary	Emergency	UABCOVID19
+COVID:1435392250	UMLS:C0002423	99344 - Home Visit, New, Level 4	Ambulatory	UABCOVID19
+COVID:1435392397	UMLS:C0002423	99345 - Home Visit, New, Level 5	Ambulatory	UABCOVID19
+COVID:1435393494	UMLS:C0002423	99348 - Home Visit, Est, Level 3	Ambulatory	UABCOVID19
+COVID:1435393576	UMLS:C0002423	99349 - Home Visit, Est, Level 4	Ambulatory	UABCOVID19
+COVID:1435393742	UMLS:C0002423	99350 - Home Visit, Est, Level 5	Ambulatory	UABCOVID19
+COVID:1437233977	UMLS:C1547136	OUT UAB ICU/After Hours Overflow Record	Inpatient (Critical Care)	UABCOVID19
+COVID:143816521	ACT_COVID_VITALS	Vital Signs UED Form	Vitals	UABCOVID19
+COVID:143816521	UMLS:C1561585	Vital Signs UED Form	Emergency	UABCOVID19
+COVID:1438836216	UMLS:C0002423	99245 - Office Consult,Level 5	Ambulatory	UABCOVID19
+COVID:1438840193	UMLS:C0002423	99211 - Office Visit, Est, Level 1	Ambulatory	UABCOVID19
+COVID:1438843173	UMLS:C0002423	99212 - Office Visit, Est, Level 2	Ambulatory	UABCOVID19
+COVID:1438843405	UMLS:C0002423	99213 - Office Visit, Est, Level 3	Ambulatory	UABCOVID19
+COVID:1438843680	UMLS:C0002423	99214 - Office Visit, Est, Level 4	Ambulatory	UABCOVID19
+COVID:1438843980	UMLS:C0002423	99215 - Office Visit, Est, Level 5	Ambulatory	UABCOVID19
+COVID:145681668	UMLS:C1547136	Pulmonary Vascular Resistance (CICU)	Inpatient (Critical Care)	UABCOVID19
+COVID:1467867231	UMLS:C0021925	MET Intubation	Intubation	UABCOVID19
+COVID:1532664073	UMLS:C0199470	SCU Respiratory Care Ventilator Charges	Mechanical Ventilation	UABCOVID19
+COVID:1657142875	UMLS:C0015357	ECMO System (DG)	Extracorporeal membrane oxygenation (ECMO)	UABCOVID19
+COVID:1742180683	UMLS:C0015357	CV PLACEMENT OF CV ECMO	Extracorporeal membrane oxygenation (ECMO)	UABCOVID19
+COVID:1853812935	UMLS:C0199470	Additional Information Vent	Mechanical Ventilation	UABCOVID19
+COVID:1865009	DEM_VITAL_STATUS_DECEASED	NM Brain Death Study	Known Deceased	UABCOVID19
+COVID:1883056845	UMLS:C1547136	Endoscopy - JT NP ICU/After Hours Record	Inpatient (Critical Care)	UABCOVID19
+COVID:1985039533	UMLS:C4534306	Oxygen Requirement Increase Greater 30%	Supplemental Oxygen	UABCOVID19
+COVID:207232131	UMLS:C0199470	Respiratory Care Ventilator Charges	Mechanical Ventilation	UABCOVID19
+COVID:214903551	UMLS:C1547136	Intra Aortic Balloon Pump Management	Inpatient (Critical Care)	UABCOVID19
+COVID:24795909	UMLS:C1547136	CICU I-Stat EG7 Plus Venous	Inpatient (Critical Care)	UABCOVID19
+COVID:2502048089	DEM_VITAL_STATUS_DECEASED	Location Of Death	Known Deceased	UABCOVID19
+COVID:258503127	UMLS:C1547137	Discharge Arrangements Completed	Inpatient (Routine)	UABCOVID19
+COVID:2627698995	UMLS:C0199470	Episode Of Ventilator Support	Mechanical Ventilation	UABCOVID19
+COVID:2943363055	UMLS:C1547136	A FI SICU BO	Inpatient (Critical Care)	UABCOVID19
+COVID:2943363711	UMLS:C1547136	A FI CICU BO	Inpatient (Critical Care)	UABCOVID19
+COVID:2943376513	UMLS:C1547136	A CMAC CICU BO	Inpatient (Critical Care)	UABCOVID19
+COVID:2943398075	UMLS:C1547136	A CMAC NICU BO	Inpatient (Critical Care)	UABCOVID19
+COVID:3340465297	UMLS:C1561585	UED Face to Face	Emergency	UABCOVID19
+COVID:3364864177	UMLS:C1547136	Capillary Blood Gas (RNICU Only)	Inpatient (Critical Care)	UABCOVID19
+COVID:3369001345	UMLS:C1547136	ICU Overall Delirium Assessment	Inpatient (Critical Care)	UABCOVID19
+COVID:3522766645	UMLS:C0199470	Ventilator to Trach Weaning	Mechanical Ventilation	UABCOVID19
+COVID:362068182	UMLS:C4534306	Oxygen Therapy, AMB	Supplemental Oxygen	UABCOVID19
+COVID:3708854845	ACT_COVID_VITALS	Vital Signs and Measurements, AMB Form	Vitals	UABCOVID19
+COVID:3708854845	UMLS:C0002423	Vital Signs and Measurements, AMB Form	Ambulatory	UABCOVID19
+COVID:3854879057	ACT_COVID_VITALS	Vital Signs And Measurements Form	Vitals	UABCOVID19
+COVID:4025284191	ECLS	ECLS Cannulation Form	ECLS	UABCOVID19
+COVID:408645096	ACT_COVID_VITALS	Orthostatic Vital Signs, AMB	Vitals	UABCOVID19
+COVID:413273638	ACT_COVID_VITALS	Vital Signs, AMB	Vitals	UABCOVID19
+COVID:413273638	UMLS:C0002423	Vital Signs, AMB	Ambulatory	UABCOVID19
+COVID:4148077479	UMLS:C1547136	A SGO CICU BO - Swan assistance CICU	Inpatient (Critical Care)	UABCOVID19
+COVID:4148085173	UMLS:C1547136	C IABP CICU BO - Balloon Pump assistance CICU	Inpatient (Critical Care)	UABCOVID19
+COVID:4180171351	ACT_COVID_VITALS	ECLS Vital Signs	Vitals	UABCOVID19
+COVID:427207694	DEM_VITAL_STATUS_DECEASED	Consult to Pastoral Care PCCU	Known Deceased	UABCOVID19
+COVID:427279345	DEM_VITAL_STATUS_DECEASED	Spiritual Assmnt/Reassmnt PCCU Form	Known Deceased	UABCOVID19
+COVID:4308173281	ECLS	ECLS Circuit Change Form	ECLS	UABCOVID19
+COVID:4362109213	ECLS	ECLS Reconfiguration Form	ECLS	UABCOVID19
+COVID:4548292061	ACT_COVID_VITALS	ED Vital Signs	Vitals	UABCOVID19
+COVID:4622503789	UMLS:C1547136	MICU Attending Physician	Inpatient (Critical Care)	UABCOVID19
+COVID:5018340751	UMLS:C1547136	Adult Cardiovascular Weaning CICU	Inpatient (Critical Care)	UABCOVID19
+COVID:5225557467	UMLS:C0021925	Intubation Other Than Cardiac Arrest	Intubation	UABCOVID19
+COVID:585489526	UMLS:C4534306	Oxygen Therapy	Supplemental Oxygen	UABCOVID19
+COVID:585494149	UMLS:C0199470	Ventilator RT Management	Mechanical Ventilation	UABCOVID19
+COVID:5889777519	UMLS:C1547136	A FI CPCC BO	Inpatient (Critical Care)	UABCOVID19
+COVID:5889782629	UMLS:C1547136	CPCC S4T BO	Inpatient (Critical Care)	UABCOVID19
+COVID:5889786977	UMLS:C1547136	CPCC ADM BO	Inpatient (Critical Care)	UABCOVID19
+COVID:5889793105	UMLS:C1547136	CPCC S1T BO	Inpatient (Critical Care)	UABCOVID19
+COVID:5889797343	UMLS:C1547136	CPCC S2T BO	Inpatient (Critical Care)	UABCOVID19
+COVID:5889888927	UMLS:C1547136	CPCC S3T BO	Inpatient (Critical Care)	UABCOVID19
+COVID:5937092537	ACT_COVID_VITALS	Vitals Current Visit ST, AMB	Vitals	UABCOVID19
+COVID:5971392389	UFOCOVID:5	Manual Proning Log Form	Positioning of Patient	UABCOVID19
+COVID:6053214777	DEM_VITAL_STATUS_DECEASED	Palliative Compassionate Extubation	Known Deceased	UABCOVID19
+COVID:6233565435	UMLS:C0086143	COVID-19 (SARS CoV-2)-Quest	Lab Orders	UABCOVID19
+COVID:6233565445	UMLS:C0022885	COVID-19 Source-Quest	Laboratory Testing	UABCOVID19
+COVID:6249048697	SNOMED_430304001	COVID-19 (SARS-CoV-2) PCR	SARS-CoV-2 nucleic acids (Unspecified specimen)	UABCOVID19
+COVID:6249048697	UMLS:C0086143	COVID-19 (SARS-CoV-2) PCR	Lab Orders	UABCOVID19
+COVID:6249048707	UMLS:C0022885	COVID-19 Performed at_	Laboratory Testing	UABCOVID19
+COVID:6253844173	UMLS:C0022885	Reason For COVID-19 Testing	Laboratory Testing	UABCOVID19
+COVID:6253844173	UMLS:C0037088	Reason For COVID-19 Testing	Diagnosis	UABCOVID19
+COVID:6253844199	SNOMED_3947197012	Patient Meets COVID-19 Testing Criteria	Suspected Case	UABCOVID19
+COVID:6253844199	UMLS:C0022885	Patient Meets COVID-19 Testing Criteria	Laboratory Testing	UABCOVID19
+COVID:6253844583	UMLS:C0022885	Approving Epidemiogist For COVID-19 Test	Laboratory Testing	UABCOVID19
+COVID:6278558237	COVID:6334176227	Pastoral Care COVID-19 Follow-Up	COVID-19 Disposition	UABCOVID19
+COVID:6278559343	UMLS:C0242656	Feeling Better Or Worse (COVID-19)	Course Of Illness	UABCOVID19
+COVID:6278559365	ICD10CM:R06.02	Shortness Of Breath (COVID-19)	Shortness of breath (ICD10CM:R06.02)	UABCOVID19
+COVID:6278933925	COVID:6334176227	COVID-19 Follow-Up Pastoral Care	COVID-19 Disposition	UABCOVID19
+COVID:6279008579	UMLS:C0037088	Patient Symptoms (COVID-19 Order)	Diagnosis	UABCOVID19
+COVID:6283920471	UMLS:C0022885	COVID-19 - External	Laboratory Testing	UABCOVID19
+COVID:6294977051	DEM_VITAL_STATUS_DECEASED	COVID-19 Related Death Statement	Known Deceased	UABCOVID19
+COVID:6309296975	UMLS:C0037088	COVID-19 Positive / PUI Patient	Diagnosis	UABCOVID19
+COVID:6309297121	DEM_VITAL_STATUS_DECEASED	COVID-19 Expiration Interventions	Known Deceased	UABCOVID19
+COVID:6314151669	UMLS:C0022885	COVID-19 Testing Attestation Statement	Laboratory Testing	UABCOVID19
+COVID:6334174909	UMLS:C0037088	Covid-19 Telemedicine Score	Diagnosis	UABCOVID19
+COVID:6334176117	UMLS:C0037088	COVID-19 Symptoms	Diagnosis	UABCOVID19
+COVID:6334176139	UMLS:C0478147	COVID-19 Associated Symptoms	Symptoms indicating suspected case	UABCOVID19
+COVID:6334176161	UMLS:C0242656	COVID-19 Co-Morbid Condition	Course Of Illness	UABCOVID19
+COVID:6334176183	ACT_COVID_SOCIAL_DETERMINANTS	COVID-19 Social Factors	Social Determinants of Health	UABCOVID19
+COVID:6334176205	UMLS:C0037088	Covid-19 Clinical Assessment Tools	Diagnosis	UABCOVID19
+COVID:6334176227	UMLS:C0242656	COVID-19 Disposition	Course Of Illness	UABCOVID19
+COVID:6334176249	COVID:6334176227	COVID-19 Follow Up Plan	COVID-19 Disposition	UABCOVID19
+COVID:6334176271	UMLS:C0037088	COVID-19 Score	Diagnosis	UABCOVID19
+COVID:6359001689	COVID:6334176227	COVID-19 Post Discharge Follow-Up Form	COVID-19 Disposition	UABCOVID19
+COVID:6359001699	COVID:6334176227	COVID-19 Follow-Up	COVID-19 Disposition	UABCOVID19
+COVID:6359001709	COVID:6334176227	COVID-19 Follow Up	COVID-19 Disposition	UABCOVID19
+COVID:6359002525	UMLS:C0037088	COVID-19 Risk Stratification	Diagnosis	UABCOVID19
+COVID:6359002551	COVID:6334176227	COVID-19 Follow-Up Symptoms	COVID-19 Disposition	UABCOVID19
+COVID:6359002573	COVID:6334176227	COVID-19 Follow-Up Comments	COVID-19 Disposition	UABCOVID19
+COVID:637314784	UMLS:C0199470	prescribed mechanical ventilation	Mechanical Ventilation	UABCOVID19
+COVID:643223993	UMLS:C1547136	Critical Care Supplies Grid	Inpatient (Critical Care)	UABCOVID19
+COVID:643224000	UMLS:C1547136	Critical Care Supplies2 Grid Row	Inpatient (Critical Care)	UABCOVID19
+COVID:643224008	UMLS:C1547136	Critical Care Supplies2 Grid	Inpatient (Critical Care)	UABCOVID19
+COVID:643226025	UMLS:C1561585	UED Charge Ticket Form	Emergency	UABCOVID19
+COVID:668758012	UMLS:C1561585	UED Comfort Rounds	Emergency	UABCOVID19
+COVID:690206	ACT_COVID_VITALS	Vital Signs Form	Vitals	UABCOVID19
+COVID:708808420	ACT_COVID_VITALS	Vitals, Current Visit, AMB	Vitals	UABCOVID19
+COVID:729112100	DEM_VITAL_STATUS_DECEASED	Pronouncement of Patient Death	Known Deceased	UABCOVID19
+COVID:729115031	DEM_VITAL_STATUS_DECEASED	PCCU Telecommunication Death Pronounce	Known Deceased	UABCOVID19
+COVID:807705894	DEM_VITAL_STATUS_DECEASED	Consult to Bereavement Coordinator, Infant	Known Deceased	UABCOVID19
+COVID:807711872	DEM_VITAL_STATUS_DECEASED	Bereavement Coordinator Note	Known Deceased	UABCOVID19
+COVID:807713720	DEM_VITAL_STATUS_DECEASED	Bereavement Coordinator Note Form	Known Deceased	UABCOVID19
+COVID:807748692	DEM_VITAL_STATUS_DECEASED	Bereavement Indication	Known Deceased	UABCOVID19
+COVID:807761700	DEM_VITAL_STATUS_DECEASED	Referral, Infant Bereavement Coordinator	Known Deceased	UABCOVID19
+COVID:839255616	DEM_VITAL_STATUS_DECEASED	Admit To Hospice	Known Deceased	UABCOVID19
+COVID:839278704	ACT_COVID_VITALS	Transfer Vital Signs Documented, AMB	Vitals	UABCOVID19
+COVID:839278704	UMLS:C0002423	Transfer Vital Signs Documented, AMB	Ambulatory	UABCOVID19
+COVID:876671969	DEM_VITAL_STATUS_DECEASED	Death Note	Known Deceased	UABCOVID19
+COVID:876681925	DEM_VITAL_STATUS_DECEASED	Hospice Diagnosis	Known Deceased	UABCOVID19
+COVID:907632236	ER_visit_admit_to_inpatient	ED Admit Request	Emergency Department Visit Admit To Inpatient	UABCOVID19
+COVID:927037943	UMLS:C1547136	Education Topics ICU Comments	Inpatient (Critical Care)	UABCOVID19
+COVID:956422593	UMLS:C1561585	UED Heart Failure YES	Emergency	UABCOVID19
+COVID:981976367	DEM_VITAL_STATUS_DECEASED	Expiration Record Family Member Info	Known Deceased	UABCOVID19
+CriticalCareTime	UMLS:C1547136	Critical Care Time	Inpatient (Critical Care)	UABCOVID19
+DischargeBenefits	UMLS:C1547136	Discharge Benefits	Inpatient (Critical Care)	UABCOVID19
+DischargeChecklist	UMLS:C1547137	Discharge Checklist	Inpatient (Routine)	UABCOVID19
+DischargeForms	UMLS:C1547137	Discharge Forms	Inpatient (Routine)	UABCOVID19
+DischargeInformation	UMLS:C1547137	Discharge Information	Inpatient (Routine)	UABCOVID19
+DischargeNeeds	UMLS:C1547137	Discharge Needs	Inpatient (Routine)	UABCOVID19
+ECLS	UMLS:C0015357	ECLS	Extracorporeal membrane oxygenation (ECMO)	UABCOVID19
+ECMO	UMLS:C0015357	ECMO	Extracorporeal membrane oxygenation (ECMO)	UABCOVID19
+ECMO.	UMLS:C0015357	ECMO.	Extracorporeal membrane oxygenation (ECMO)	UABCOVID19
+ECMOCannulation	UMLS:C0015357	ECMO Cannulation	Extracorporeal membrane oxygenation (ECMO)	UABCOVID19
+ECMOCircuitCount	UMLS:C0015357	ECMO Circuit Count	Extracorporeal membrane oxygenation (ECMO)	UABCOVID19
+EDACSRiskAssessmentForm	UMLS:C1561585	ED ACS Risk Assessment Form	Emergency	UABCOVID19
+EDNurseAssessment	UMLS:C1561585	ED Nurse Assessment	Emergency	UABCOVID19
+EDPCTDocumentation	UMLS:C1561585	ED PCT Documentation	Emergency	UABCOVID19
+EmergencyDepartment	UMLS:C1561585	Emergency Department	Emergency	UABCOVID19
+Endotracheal/EndobronchialTube	UMLS:C0021925	Endotracheal/Endobronchial Tube	Intubation	UABCOVID19
+EndotrachealTubeInformation	UMLS:C0021925	Endotracheal Tube Information	Intubation	UABCOVID19
+ER_visit_admit_to_inpatient	UMLS:C1547137	Emergency Department Visit Admit To Inpatient	Inpatient (Routine)	
+ETTInsertionDistance/PlacementMarker	UMLS:C0021925	ETT Insertion Distance/Placement Marker	Intubation	UABCOVID19
+ExpirationRecord	DEM_VITAL_STATUS_DECEASED	Expiration Record	Known Deceased	UABCOVID19
+FetalNeonatalPalliative/Bereavement	DEM_VITAL_STATUS_DECEASED	Fetal Neonatal Palliative/Bereavement	Known Deceased	UABCOVID19
+GeneralLab	UMLS:C0022885	General Lab	Laboratory Testing	UABCOVID19
+ICUCardiovascular	UMLS:C1547136	ICU Cardiovascular	Inpatient (Critical Care)	UABCOVID19
+ICUID/Hematologic	UMLS:C1547136	ICU ID/Hematologic	Inpatient (Critical Care)	UABCOVID19
+ICUPulmonary	UMLS:C1547136	ICU Pulmonary	Inpatient (Critical Care)	UABCOVID19
+ICUSepsis	UMLS:C1547136	ICU Sepsis	Inpatient (Critical Care)	UABCOVID19
+Inpatient_visit	UFOCOVID:3	Inpatient Hospital Stay	Inpatient (Routine and/or Critical Care)	
+Laboratory	UMLS:C0022885	Laboratory	Laboratory Testing	UABCOVID19
+ManualProning	UFOCOVID:5	Manual Proning	Positioning of Patient	UABCOVID19
+MeasurementsAndVitals	ACT_COVID_VITALS	Measurements And Vitals	Vitals	UABCOVID19
+NotificationsofDeathRecord	DEM_VITAL_STATUS_DECEASED	Notifications of Death Record	Known Deceased	UABCOVID19
+OrderedVentSetting	UMLS:C0199470	Ordered Vent Setting	Mechanical Ventilation	UABCOVID19
+OrderedVentSetting(RNICU/CCN)RTONLY	UMLS:C0199470	Ordered Vent Setting (RNICU/CCN)RTONLY	Mechanical Ventilation	UABCOVID19
+OrderedVentSetting(RNICU/CCN)RTONLY	UMLS:C1547136	Ordered Vent Setting (RNICU/CCN)RTONLY	Inpatient (Critical Care)	UABCOVID19
+OrderedVentSettings	UMLS:C0199470	Ordered Vent Settings	Mechanical Ventilation	UABCOVID19
+OrderedVentSettings.	UMLS:C0199470	Ordered Vent Settings.	Mechanical Ventilation	UABCOVID19
+OrthostaticVitalSigns	ACT_COVID_VITALS	Orthostatic Vital Signs	Vitals	UABCOVID19
+OxygenTherapy	UMLS:C4534306	Oxygen Therapy	Supplemental Oxygen	UABCOVID19
+OxygenTherapy&OxygenationInformation	UMLS:C4534306	Oxygen Therapy & Oxygenation Information	Supplemental Oxygen	UABCOVID19
+RNICU/CCNRespiratoryProcedures	UMLS:C1547136	RNICU/CCN Respiratory Procedures	Inpatient (Critical Care)	UABCOVID19
+UABCHARTDONENOTDONE	UMLS:C4534306	UAB CHART DONE NOTDONE	Supplemental Oxygen	UABCOVID19
+UABDischarge/Depart	UMLS:C1547137	UAB Discharge/Depart	Inpatient (Routine)	UABCOVID19
+UABED	UMLS:C1561585	UAB ED	Emergency	UABCOVID19
+UABInpatient	UMLS:C1547137	UAB Inpatient	Inpatient (Routine)	UABCOVID19
+UEDAdmissionForm	ER_visit_admit_to_inpatient	UED Admission Form	Emergency Department Visit Admit To Inpatient	UABCOVID19
+UEDAdmissionForm	UMLS:C1547137	UED Admission Form	Inpatient (Routine)	UABCOVID19
+UEDChargeTicket	UMLS:C1561585	UED Charge Ticket	Emergency	UABCOVID19
+UEDComfortRounds	UMLS:C1561585	UED Comfort Rounds	Emergency	UABCOVID19
+UEDForms	UMLS:C1561585	UED Forms	Emergency	UABCOVID19
+UEDInformation	UMLS:C1561585	UED Information	Emergency	UABCOVID19
+UFOCOVID:3	UMLS:C1510665	Inpatient (Routine and/or Critical Care)	Level of Care (Setting)	
+UFOCOVID:4	UMLS:C0478147	Anosmia	Symptoms indicating suspected case	
+UFOCOVID:5	UMLS:C0087111	Positioning of Patient	Therapeutic and Preventive Treatment	
+UMLS:C0015357	UMLS:C1444343	Extracorporeal membrane oxygenation (ECMO)	Respiratory Therapy Management	ACT
+UMLS:C0021925	UMLS:C1444343	Intubation	Respiratory Therapy Management	ACT
+UMLS:C0199470	UMLS:C1444343	Mechanical Ventilation	Respiratory Therapy Management	ACT
+UMLS:C1547136	UFOCOVID:3	Inpatient (Critical Care)	Inpatient (Routine and/or Critical Care)	ACT
+UMLS:C1547137	UFOCOVID:3	Inpatient (Routine)	Inpatient (Routine and/or Critical Care)	ACT
+UMLS:C4534306	UMLS:C1444343	Supplemental Oxygen	Respiratory Therapy Management	ACT
+VentAlarms	UMLS:C0199470	Vent Alarms	Mechanical Ventilation	UABCOVID19
+VentilatorAlarmSettings	UMLS:C0199470	Ventilator Alarm Settings	Mechanical Ventilation	UABCOVID19
+VentilatorManagement	UMLS:C0199470	Ventilator Management	Mechanical Ventilation	UABCOVID19
+VentilatorManagement-ICU	UMLS:C0199470	Ventilator Management-ICU	Mechanical Ventilation	UABCOVID19
+VentilatorManagement-ICU	UMLS:C1547136	Ventilator Management-ICU	Inpatient (Critical Care)	UABCOVID19
+VentilatorMeasurements/Assessments	UMLS:C0199470	Ventilator Measurements/Assessments	Mechanical Ventilation	UABCOVID19
+VentilatorSettings	UMLS:C0199470	Ventilator Settings	Mechanical Ventilation	UABCOVID19
+VentilatorValues	UMLS:C0199470	Ventilator Values	Mechanical Ventilation	UABCOVID19
+VentMode/Rate	UMLS:C0199470	Vent Mode/Rate	Mechanical Ventilation	UABCOVID19
+Vitals	ACT_COVID_VITALS	Vitals	Vitals	UABCOVID19
+VitalSigns	ACT_COVID_VITALS	Vital Signs	Vitals	UABCOVID19
+VitalSigns(Pharmacy)	ACT_COVID_VITALS	Vital Signs (Pharmacy)	Vitals	UABCOVID19
+VitalSigns(RNICUMD)	ACT_COVID_VITALS	Vital Signs (RNICU MD)	Vitals	UABCOVID19
+VitalSigns(RNICUMD)	UMLS:C1547136	Vital Signs (RNICU MD)	Inpatient (Critical Care)	UABCOVID19
+VitalSignsPhysician	ACT_COVID_VITALS	Vital Signs Physician	Vitals	UABCOVID19
